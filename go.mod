@@ -1,3 +1,3 @@
-module coverage
+module github.com/maxwww/golang-united-school-homework-7
 
-go 1.17
+go 1.18
